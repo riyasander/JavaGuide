@@ -270,7 +270,7 @@ AES Decrypted Data : Java学习 + 面试指南：javaguide.cn
 
 ![非对称加密](https://oss.javaguide.cn/github/javaguide/system-design/security/encryption-algorithms/asymmetric-encryption.png)
 
-常见的非对称加密算法有 RSA、DSA、ECC 等。
+常见的非对称加密算法有 RSA、DSA、ECC 等。(图片来自于: [Diffie-Hellman, RSA, DSA, ECC and ECDSA – Asymmetric Key Algorithms](https://www.ssl2buy.com/wiki/diffie-hellman-rsa-dsa-ecc-and-ecdsa-asymmetric-key-algorithms)):
 
 ### RSA
 
